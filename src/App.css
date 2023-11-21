@@ -7,8 +7,8 @@
   font-family: 'Poppins', sans-serif;
 }
 .app-container {
-  display: flex;
-  height: 100vh;
+  /* display: flex; */
+  /* height: 100vh; */
 }
 
 .half-container {

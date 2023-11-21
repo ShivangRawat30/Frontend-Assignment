@@ -119,7 +119,7 @@ const App = () => {
   };
 
   return (
-    <div className="app-container">
+    <div className="app-container lg:flex lg:flex-row sm:flex sm:flex-col md:flex md:flex-row">
       <div className="half-container split-pane col-xs-12 col-sm-6 uiux-side">
         <h1 className='text-bold'>JSON Schema Input</h1>
         <textarea
